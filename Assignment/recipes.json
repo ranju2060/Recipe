@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "name": "Momo",
+    "ingredients": [
+      "2 cups all-purpose flour",
+      "1/2 lb minced chicken or vegetables",
+      "1 medium onion, finely chopped",
+      "2 cloves garlic, minced",
+      "1 tsp ginger, minced",
+      "1 tsp cumin powder",
+      "1 tsp coriander powder",
+      "1/2 tsp turmeric",
+      "Salt to taste",
+      "1/4 cup cilantro, chopped"
+    ],
+    "description": "Momo is a popular Nepali dumpling, often filled with minced meat or vegetables. It is served with a spicy tomato sauce."
+  },
+  {
+    "id": 2,
+    "name": "Dal Bhat",
+    "ingredients": [
+      "1 cup lentils (masoor or toor dal)",
+      "4 cups water",
+      "1/2 tsp turmeric",
+      "Salt to taste",
+      "1 cup rice",
+      "2 tbsp clarified butter (ghee)",
+      "1 tsp cumin seeds",
+      "1/2 tsp garlic, minced"
+    ],
+    "description": "Dal Bhat is the staple food of Nepal, consisting of steamed rice (bhat) and lentil soup (dal), often accompanied by vegetable curry."
+  },
+  {
+    "id": 3,
+    "name": "Aloo Tama",
+    "ingredients": [
+      "2 medium potatoes, diced",
+      "1 cup bamboo shoots (tama), chopped",
+      "1 medium tomato, chopped",
+      "1 tsp turmeric",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp chili powder",
+      "Salt to taste",
+      "1 tbsp oil",
+      "1/2 cup black-eyed peas (optional)"
+    ],
+    "description": "Aloo Tama is a traditional Nepali curry made with potatoes, bamboo shoots, and sometimes black-eyed peas. It's a tangy and spicy dish served with rice."
+  },
+  {
+    "id": 4,
+    "name": "Sel Roti",
+    "ingredients": [
+      "2 cups rice flour",
+      "1/2 cup sugar",
+      "1/4 cup milk",
+      "1/2 cup water",
+      "Oil for frying"
+    ],
+    "description": "Sel Roti is a traditional Nepali homemade, sweet, ring-shaped rice bread/doughnut, crispy on the outside and soft on the inside, usually made during festivals."
+  },
+  {
+    "id": 5,
+    "name": "Gundruk",
+    "ingredients": [
+      "500g leafy greens (mustard or radish leaves)",
+      "Salt to taste"
+    ],
+    "description": "Gundruk is a traditional fermented leafy green vegetable, typically served as a side dish or soup. It has a tangy flavor and is a source of vitamins in Nepali cuisine."
+  }
+]
